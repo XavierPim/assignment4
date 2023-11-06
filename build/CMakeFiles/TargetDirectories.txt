@@ -1,0 +1,5 @@
+/home/xavi/assignment4/build/CMakeFiles/server.dir
+/home/xavi/assignment4/build/CMakeFiles/client.dir
+/home/xavi/assignment4/build/CMakeFiles/format.dir
+/home/xavi/assignment4/build/CMakeFiles/edit_cache.dir
+/home/xavi/assignment4/build/CMakeFiles/rebuild_cache.dir
